@@ -1,0 +1,12 @@
+Layer 2
+
+=== Section: Data Generation ===
+- Order Profile:
+ordersPerHour:	5000			//Number of Orders per Hour
+
+- Shuttle System:
+
+=== Section: System Config ===
+- Power Supply:
+
+- Results:

@@ -1,0 +1,13 @@
+Layer 0
+
+=== Section: Data Generation ===
+- Order Profile:
+numberOfSystems:	5			//Number of systems
+
+- Shuttle System:
+
+=== Section: System Config ===
+- Power Supply:
+
+- Results:
+resultStartTime:	01:00:00	//Result-Tracking Start Time (hours:minutes:seconds)
